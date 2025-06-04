@@ -1,0 +1,8 @@
+{
+  "uuid": "prime-switch@weikis",
+  "name": "Prime Switch",
+  "description": "Switch between NVIDIA, Intel, and On-Demand using prime-select",
+  "version": 1,
+  "shell-version": ["45", "46"],
+  "url": "https://github.com/woomymy/prime-switch"
+}
